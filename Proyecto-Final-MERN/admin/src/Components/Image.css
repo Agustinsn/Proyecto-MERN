@@ -1,0 +1,11 @@
+#image{
+    width: 150px;
+    max-height: 150px; 
+}
+Table{
+    text-align: center;
+}
+#welcomeImg{
+    max-width: 800px;
+    margin-left: 150px;
+}
